@@ -1,0 +1,23 @@
+{
+  "name": "wishlist",
+  "version": "1.0.0",
+  "description": "An application that allows users to create wishlists for different occasions and share them with their Facebook friends.",
+  "main": "index.js",
+  "scripts": {
+    "start": "meteor run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mjamore/wishlist.git"
+  },
+  "author": "Michael Amore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjamore/wishlist/issues"
+  },
+  "homepage": "https://github.com/mjamore/wishlist#readme",
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
